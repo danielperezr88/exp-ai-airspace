@@ -1,4 +1,6 @@
 +++
-title = "Work"
 id = "work"
+title = "Work"
+type = "page"
+
 +++
