@@ -79,6 +79,6 @@ subtitle = "AI&mdash;leveraged solutions for the modern world."
 title = "<span style=\"text-align:center;width:100%\">Exp&mdash;AI</span>"
 [params.wrapper]
 enable = true
-italic = "Many of life's failures are people who did not realize how close they were to success when they gave up - Thomas Alva Edison"
+italic = "\"Many of life's failures are people who did not realize how close they were to success when they gave up.\"<br/><br/><span style=\"text-align:right;\">- Thomas Alva Edison</span>"
 paragraph = "Exp-AI is born as an association of former scientists and serial entrepeneurs with a common goal: bring companies closer to the new cognitive era with tailored solutions, specifically designed to get the best possible outcome out of every process and endeavor."
 title = "About Us"
