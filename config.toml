@@ -75,8 +75,8 @@ caption = "View Works"
 url = "#"
 [params.slider]
 enable = true
-subtitle = "AI&mdash;leveraged solutions for the modern world.<br/>Surged from an association of former scientists and serial entrepeneurs with a common goal: bring companies closer to the new cognitive era with tailored solutions, specifically designed to get the best possible outcome out of every process and endeavor."
-title = "Exp&mdash;AI"
+subtitle = "AI&mdash;leveraged solutions for the modern world."
+title = "<span style=\"text-align:center;width:100%\">Exp&mdash;AI</span>"
 [params.wrapper]
 enable = true
 italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
