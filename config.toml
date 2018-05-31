@@ -79,6 +79,6 @@ subtitle = "<div style=\"text-align:center;width:100%\">AI&mdash;leveraged solut
 title = "<div style=\"text-align:center;width:100%\">Exp&mdash;AI</div>"
 [params.wrapper]
 enable = true
-italic = "\"Many of life's failures are people who did not realize how close they were to success when they gave up.\"<br/><br/><div style=\"text-align:right;\">- Thomas Alva Edison</div>"
+italic = "\"Many of life's failures are people who did not realize how close they were to success when they gave up.\" - Thomas Alva Edison"
 paragraph = "Exp-AI is born as an association of former scientists and serial entrepeneurs with a common goal: bring companies closer to the new cognitive era with tailored solutions, specifically designed to get the best possible outcome out of every process and endeavor."
 title = "About Us"
