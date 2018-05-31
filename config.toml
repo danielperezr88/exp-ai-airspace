@@ -75,8 +75,8 @@ caption = "View Works"
 url = "#"
 [params.slider]
 enable = true
-subtitle = "AI&mdash;leveraged solutions for the modern world."
-title = "<span style=\"text-align:center;width:100%\">Exp&mdash;AI</span>"
+subtitle = "<div style=\"text-align:center;width:100%\">AI&mdash;leveraged solutions for the modern world.</div>"
+title = "<div style=\"text-align:center;width:100%\">Exp&mdash;AI</div>"
 [params.wrapper]
 enable = true
 italic = "\"Many of life's failures are people who did not realize how close they were to success when they gave up.\"<br/><br/><div style=\"text-align:right;\">- Thomas Alva Edison</div>"
