@@ -1,60 +1,45 @@
+---
 enable: true
-title: Just some of our latest projects.
-subtitle: Don’t just take our word for it. Check out some of our latest work.
-
+title: Our verticals
+subtitle: These are all areas we cover. Click for more details...
 portfolio:
-  - category: Branding
-    url: "#"
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Websites
-    url: "#"
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Graphics
-    url: "#"
-    image: "/img/portfolio/work2.jpg"
-    name: Tesla Motors
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Design
-    url: "#"
-    image: "/img/portfolio/work3.jpg"
-    name: Tesla Motors
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Video
-    url: "#"
-    image: "/img/portfolio/work4.jpg"
-    name: Tesla Motors
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
+- category: Industry 4.0
+  url: "#"
+  image: "/img/portfolio/work1.jpg"
+  name: Industry 4.0
+  description: Fostering the ultimate industrial revolution
+- category: Business Intelligence Revisited
+  url: "#"
+  image: "/img/portfolio/work1.jpg"
+  name: More than just insight
+  description: Intelligent Data-driven Decission Support
+- category: Healthcare
+  url: "#"
+  image: "/img/portfolio/work2.jpg"
+  name: Don't miss a clue on health
+  description: Put a Deep Learning expert on your side
 clients:
-  - image: "/img/clients/clients-logo1.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
-    url: "#"
-  - image: "/img/clients/clients-logo5.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo1.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
-    url: "#"
+- image: "/img/clients/clients-logo1.png"
+  url: "#"
+- image: "/img/clients/clients-logo2.png"
+  url: "#"
+- image: "/img/clients/clients-logo3.png"
+  url: "#"
+- image: "/img/clients/clients-logo4.png"
+  url: "#"
+- image: "/img/clients/clients-logo5.png"
+  url: "#"
+- image: "/img/clients/clients-logo4.png"
+  url: "#"
+- image: "/img/clients/clients-logo3.png"
+  url: "#"
+- image: "/img/clients/clients-logo2.png"
+  url: "#"
+- image: "/img/clients/clients-logo1.png"
+  url: "#"
+- image: "/img/clients/clients-logo2.png"
+  url: "#"
+- image: "/img/clients/clients-logo3.png"
+  url: "#"
+- image: "/img/clients/clients-logo4.png"
+  url: "#"
