@@ -25,19 +25,7 @@ weight = 1
 [[menu.header]]
 name = "Contact"
 url = "/contact"
-weight = 5
-[[menu.header]]
-name = "Service"
-url = "/service"
-weight = 4
-[[menu.header]]
-name = "Blog"
-url = "/blog"
-weight = 3
-[[menu.header]]
-name = "Work"
-url = "/work"
-weight = 2
+weight = 1
 [params]
 date_format = "2006-01-06T00:00:00+00:00"
 home = "Home"

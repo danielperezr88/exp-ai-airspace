@@ -1,4 +1,6 @@
 +++
-title = "Contact"
 id = "contact"
+title = "Contact"
+type = "page"
+
 +++
