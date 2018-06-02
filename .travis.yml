@@ -22,7 +22,7 @@ before_script:
 # Build the website
 script:
   - chmod +x binaries/hugo
-  - binaries/hugo -t exp-ai-airspace
+  - binaries/hugo -t airspace-hugo
   
 before_deploy: "ls -al"
 
