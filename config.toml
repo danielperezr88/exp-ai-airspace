@@ -4,12 +4,8 @@ theme = "airspace-hugo"
 title = "Exp-AI"
 [[menu.footer]]
 name = "About us"
-url = "#"
+url = "#intro"
 weight = 1
-[[menu.footer]]
-name = "Terms"
-url = "#"
-weight = 3
 [[menu.header]]
 name = "Contact"
 url = "/contact"
