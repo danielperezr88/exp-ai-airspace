@@ -686,7 +686,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #contact-form .block button {
   width: 100%;
-  height: 60px;
+  height: calc(60px - 0.5rem);
   background: #47424C;
   border: none;
   color: #fff;

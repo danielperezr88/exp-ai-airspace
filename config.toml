@@ -35,12 +35,12 @@ subtitle = "Catch up with us, anytime and anywhere"
 title = "Get The Latest On What We're doing"
 [params.call]
 enable = true
-paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
-title = "We design delightful digital experiences."
+paragraph = "Together, we can make your ideas become your business main drive!"
+title = "Let us drive you to the new AI-leveraged era"
 [params.contact]
 enable = true
-subtitle = "Don’t just take our word for it. Check out some of our latest work."
-title = "Drop us a note"
+subtitle = "The cognitive era is coming, making your ideas your business' best asset. We can help you making them true."
+title = "Just drop us a note!"
 [params.contact.box]
 address = "North Main Street, Brooklyn Australia"
 email = "Email: contact@mail.com"
@@ -55,12 +55,12 @@ subject = "Your subject"
 [params.contact.gmaps]
 title = "We Also Count in Google Maps"
 [params.feature]
-content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+content = "In this new opening paradigm, ideas are becoming the most valuable asset of the human species. Do you have any? Let's talk!<br/><br/>We love making great ideas true!"
 enable = true
 title = "We believe in great ideas"
 [params.feature.button]
-caption = "View Works"
-url = "#"
+caption = "Contact Us"
+url = "/contact/"
 [params.slider]
 enable = true
 subtitle = "<div style=\"text-align:center;width:100%\">AI&ndash;leveraged solutions for the modern world.</div>"
