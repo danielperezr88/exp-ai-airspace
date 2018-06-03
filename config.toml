@@ -3,25 +3,13 @@ languageCode = "en-us"
 theme = "airspace-hugo"
 title = "Exp-AI"
 [[menu.footer]]
-name = "Terms"
-url = "#"
-weight = 5
-[[menu.footer]]
-name = "Blog"
-url = "#"
-weight = 4
-[[menu.footer]]
-name = "How it works"
-url = "#"
-weight = 3
-[[menu.footer]]
-name = "Contact us"
-url = "#"
-weight = 2
-[[menu.footer]]
 name = "About us"
 url = "#"
 weight = 1
+[[menu.footer]]
+name = "Terms"
+url = "#"
+weight = 3
 [[menu.header]]
 name = "Contact"
 url = "/contact"
