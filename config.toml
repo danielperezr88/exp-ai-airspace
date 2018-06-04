@@ -6,6 +6,10 @@ title = "Exp-AI"
 name = "About us"
 url = "https://exp-ai.com/#intro"
 weight = 1
+[[menu.header]]
+name = "Contact"
+url = "/contact"
+weight = 1
 [params]
 date_format = "2006-01-06T00:00:00+00:00"
 home = "Home"
