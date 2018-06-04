@@ -1,14 +1,14 @@
-baseURL = "https://danielperezr88.github.io/"
+baseURL = "https://exp-ai.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 title = "Exp-AI"
 [[menu.footer]]
 name = "About us"
-url = "#intro"
+url = "https://exp-ai.com/#intro"
 weight = 1
 [params]
 date_format = "2006-01-06T00:00:00+00:00"
-home = "Homepage"
+home = "Home"
 [params.blog]
 enable = true
 subtitle = "Catch up with us, anytime and anywhere"
