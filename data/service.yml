@@ -3,10 +3,10 @@ enable: true
 title: Our Verticals
 subtitle: ''
 content:
-- icon: ion-coffee
-  name: Branding
-  text: |
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+- icon: ion-leaf
+  name: Smart Agro
+  text: Crop Stress Characterization<br/>Yield Optimization<br/>Intelligent Fertilization
+    & Irrigation
 - icon: ion-compass
   name: Web Design
   text: |
