@@ -13,10 +13,9 @@ content:
 - icon: ion-social-bitcoin
   name: Blockchain & Smart Contracts
   text: "<p>Smart Logistics<br/>Decentralized Organizations<br/>P2P AI</p>"
-- icon: ion-bug
-  name: Start Up
-  text: |
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+- icon: ion-ios-pulse-strong
+  name: Healthcare
+  text: "<p>Decission Support Systems<br/>Intelligent Prognosis<br/>Data-driven Diagnosis</p>"
 - icon: ion-headphone
   name: Logo Design
   text: |
