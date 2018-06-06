@@ -7,10 +7,9 @@ content:
   name: Smart Agro
   text: Crop Stress Characterization<br/>Yield Optimization<br/>Intelligent Fertilization
     & Irrigation
-- icon: ion-compass
-  name: Web Design
-  text: |
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+- icon: ion-construct
+  name: Industry 4.0
+  text: "<p>IoT Intelligent Monitoring<br/>Inefficiency Exposure<br/></p>"
 - icon: ion-image
   name: App Design
   text: |
