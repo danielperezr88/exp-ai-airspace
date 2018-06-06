@@ -20,10 +20,9 @@ content:
   name: Insurance & Fintech
   text: "<p>Intelligent Risk Management<br/>Cognitive Algorithmic Trading<br/>Churn
     Prediction</p>"
-- icon: ion-leaf
-  name: Development
-  text: |
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+- icon: ion-lock-combination
+  name: "(Cyber)security"
+  text: "<p>Fraud Detection<br/>Object & Facial Detection<br/>Intelligent Event Correlation</p>"
 - icon: ion-planet
   name: Brand Identity
   text: |
