@@ -5,8 +5,8 @@ subtitle: ''
 content:
 - icon: ion-leaf
   name: Smart Agro
-  text: Crop Stress Characterization<br/>Yield Optimization<br/>Intelligent Fertilization
-    & Irrigation
+  text: "<p>Crop Stress Characterization<br/>Yield Optimization<br/>Intelligent Fertilization
+    & Irrigation</p>"
 - icon: ion-construct
   name: Industry 4.0
   text: "<p>IoT Intelligent Monitoring<br/>Inefficiency Exposure<br/></p>"
