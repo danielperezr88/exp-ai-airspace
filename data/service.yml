@@ -7,13 +7,12 @@ content:
   name: Smart Agro
   text: "<p>Crop Stress Characterization<br/>Yield Optimization<br/>Intelligent Fertilization
     & Irrigation</p>"
-- icon: ion-construct
+- icon: ion-settings
   name: Industry 4.0
-  text: "<p>IoT Intelligent Monitoring<br/>Inefficiency Exposure<br/></p>"
-- icon: ion-image
-  name: App Design
-  text: |
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+  text: "<p>IoT Intelligent Monitoring<br/>Inefficiency Exposure<br/>Predictive Maintenance</p>"
+- icon: ion-social-bitcoin
+  name: Blockchain & Smart Contracts
+  text: "<p>Smart Logistics<br/>Decentralized Organizations<br/>P2P AI</p>"
 - icon: ion-bug
   name: Start Up
   text: |
